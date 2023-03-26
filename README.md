@@ -2,7 +2,7 @@
 
 ## Схема взаимодействия классов:
 
-![image](https://github.com/PostRed/MEGA_HW/blob/main/Снимок%20экрана%202023-03-25%20в%2016.05.22.png)
+![image](https://github.com/PostRed/IHW3/blob/main/Снимок%20экрана%202023-03-25%20в%2016.05.22.png)
 
 ## Паттерны:
 
